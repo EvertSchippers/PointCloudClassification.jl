@@ -1,0 +1,7 @@
+name = "PointCloudClassification"
+uuid = "2ce71d3d-cb25-455c-afd4-ab7d9e8a3128"
+authors = ["Evert Schippers <evert.schippers@roames.com.au>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
